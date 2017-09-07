@@ -1,2 +1,0 @@
-# FaiProject
-APL UNCo
